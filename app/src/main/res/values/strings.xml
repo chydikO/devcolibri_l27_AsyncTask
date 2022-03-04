@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">devcolibri_l27_AsyncTask</string>
+    <string name="start">Start</string>
+    <string name="textview">TextView</string>
+</resources>
